@@ -2,7 +2,7 @@
 
 
 ## Grundsatz
-Die nachfolgende Hausaufgabe ist bis  zum *12.4.2019 23:59 Uhr* zu bearbeiten und einzureichen.
+Die nachfolgende Hausaufgabe ist zu bearbeiten und einzureichen.
 Sie ist Teil des Aufnahmeverfahrens für das im Sommer 2019 beginnende Studium des Lehrgangs Interaction Design HF an der SfGZ.
 Die Hausaufgabe ist so angelegt, dass nicht nur bestehendes Wissen abgeruft werden kann, sondern unter Umständen im Selbststudium weitere Informationen beschafft werden müssen um die Aufgaben zu erfüllen.
 Sollte es nicht möglich sein, Teile der Aufgaben oder deren Bedingungen zu erfüllen, so empfehlen wir eine Abgabe/Dokumentation der bis dahin erreichten Schritte.
