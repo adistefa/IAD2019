@@ -1,5 +1,5 @@
 ## Inhalt
-Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](https://cdn.rawgit.com/logrinto/IAD2019/787529a3/docs/Infobroschuere_HF_Interaction_Design.pdf)
+Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](https://rawcdn.githack.com/logrinto/IAD2019/a1fb748d949cce2b1e9464cc772ba59662bcb4c6/docs/Infobroschuere_HF_Interaction_Design.pdf)
 
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
@@ -56,7 +56,7 @@ Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat)
 
 
 ## Lernziele
-Details [hier](./lernziele/README.md). Die Lernziele werden gemäss [Lehrplan](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf) und Rücksprache mit der dozierenden Person festgehalten.
+Details [hier](./lernziele/README.md). Die Lernziele werden gemäss [Lehrplan](https://rawcdn.githack.com/logrinto/IAD2019/a1fb748d949cce2b1e9464cc772ba59662bcb4c6/docs/Infobroschuere_HF_Interaction_Design.pdf) und Rücksprache mit der dozierenden Person festgehalten.
 
 ## Noten
 **Jeder Dozent muss eine Endnote seines Moduls an Stefan Huber abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. Die Projektwoche wird im Zeugnis separat ausgewiesen. Details [hier](./lernziele/README.md).
@@ -94,7 +94,7 @@ Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail J
 Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, so dass allfällige Dolmetscher sich darauf einstellen können.
 
 ## Promotionsordnung
-Die aktuelle Promotionsordnung gibt es [hier](https://cdn.rawgit.com/logrinto/IAD2019/dd035580/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)
+Die aktuelle Promotionsordnung gibt es [hier](https://rawcdn.githack.com/logrinto/IAD2019/a1fb748d949cce2b1e9464cc772ba59662bcb4c6/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)
 
 ## Probleme während dem Unterricht
 Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches Gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt sein, so dass sich die andere Partei auch vorbereiten kann. Sollte in einem solchen Gespräch keine Lösung gefunden werden die befriedigend für alle Parteien ist, sollten die beiden Parteien sich an Jonas Schudel oder Stefan Huber richten. Daneben gibt es noch ein [Github-Repository[(https://github.com/logrinto/IAD2019/issues), wo Ihr Anliegen melden könnt.
