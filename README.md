@@ -1,81 +1,100 @@
-# Hausaufgabe HF Kommunikationsdesign – Interaction Design 2019
+## Inhalt
+Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](https://cdn.rawgit.com/logrinto/IAD2019/787529a3/docs/Infobroschuere_HF_Interaction_Design.pdf)
+
+## Kommunikation
+Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
+
+* [Chat-Anmeldung (Slack)](https://goo.gl/rgh9Jb)
+
+## Stundenplan
+Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2019.timetable/).
+
+## Klasse
+Die Klasse besteht aus 15 Studierenden ([Adressliste](https://logrinto.github.io/IAD.students/)). Alle Studenten haben einen Laptop dabei.  
+
+## Dozierende
+<table>
+  <tbody>
+    <tr>
+      <th>Vorbereitung</th>
+      <th>Unterricht</th>
+      <th>Nachgang</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa!</strong></li>
+          <li>Lehrziele an Stefan Huber senden</li>
+          <li>CV mit Tätigkeiten/Anstellungen, Abschlüsse mit Diplom, Arbeitszeugnisse/Arbeitsbestätigungen an Jonas Schudel (jonas.schudel@sfgz.ch)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Anwesenheitsliste ausfüllen.</li>
+          <li>Mindestens eine Prüfung/Übung/Arbeit bewerten, so dass eine Note (0.1 Schritte) als Rückmeldung an die Studenten erfolgen kann.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Schlüssel und Anwesenheitsliste an Yvonne Koppitsch</li>
+          <li>Noten (0.1 Schritte) bis 16.07.2018 an Stefan Huber</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Zugangsdaten
+Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
+* Wifi-Passwort an der Schule
+* Zugang zur [Adressliste](https://logrinto.github.io/IAD.students/) der Dozierenden/Studenten
+
+## Ort
+Zimmer 411 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
+Im Schulzimmer gibt es einen Beamer mit [HDMI-Anschluss](https://de.wikipedia.org/wiki/High_Definition_Multimedia_Interface#/media/File:HDMI_connector-male_2_sharp_PNr%C2%B00059.jpg).  
+Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.–/Tag benutzt werden.
 
 
-## Grundsatz
-Die nachfolgende Hausaufgabe ist zu bearbeiten und einzureichen.
-Sie ist Teil des Aufnahmeverfahrens für das im Sommer 2019 beginnende Studium des Lehrgangs Interaction Design HF an der SfGZ.
-Die Hausaufgabe ist so angelegt, dass nicht nur bestehendes Wissen abgeruft werden kann, sondern unter Umständen im Selbststudium weitere Informationen beschafft werden müssen um die Aufgaben zu erfüllen.
-Sollte es nicht möglich sein, Teile der Aufgaben oder deren Bedingungen zu erfüllen, so empfehlen wir eine Abgabe/Dokumentation der bis dahin erreichten Schritte.
+## Lernziele
+Details [hier](./lernziele/README.md). Die Lernziele werden gemäss [Lehrplan](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf) und Rücksprache mit der dozierenden Person festgehalten.
 
-Die Hausaufgabe besteht aus zwei Teilen:
+## Noten
+**Jeder Dozent muss eine Endnote seines Moduls an Stefan Huber abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. Die Projektwoche wird im Zeugnis separat ausgewiesen. Details [hier](./lernziele/README.md).
 
-* Gestaltung (70% der Gesamtnote)
-* Selbstständige Erarbeitung (30% der Gesamtnote)
+* Cluster «Kontext und Konzeption»
+* Cluster «Design und Interaktion»
+* Cluster «Realisation und Controlling»
 
+## Anwesenheitspflicht
+Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
 
-### Benötigte Hilfsmittel
-* Computer
-* Internetzugang
+## Stunden
+```
+08:15-09:00
+09:05-09:50
+10:05-10:50
+10:55-11:40
+13:15–14:00
+14:05-14:50
+15:05-15:50
+16:00-16:45
+```
+Diverse Dozierende haben in Absprache mit der Klasse folgende Zeiten abgemacht:
+```
+08:15-11:45 (mit 30min Pause)
+12:45-16:15 (mit 30min Pause)
+```
 
-### Abgabe
-Bitte senden Sie alle Dateien bis zur Abgabefrist in einem ZIP-Bundle (.zip-File) komprimiert an yvonne.koppitsch@sfgz.ch. Sollte die Datei über 10MB gross sein, bitten wir Sie, uns einen Link zur Datei zu senden (Dropbox oder ähnliches). Das übermittelte Mail soll nur dieses eine Zip-File als Anlage enthalten und der Text des Mails soll lediglich Ihre Adresse beinhalten, jedoch keine wesentlichen Informationen zur Abgabe. Wichtige Informationen zur Abgabe befinden sich ausschliesslich im Zip-File. Die Abgabe wird Ihnen innert 5 Arbeitstagen bestätigt.
+## Selbststudium/Hausarbeiten
+Pro Woche können bis zu 3 Stunden Selbststudium – je 4 Lektionseinheiten – den Studierenden in Auftrag gegeben werden. (2 Tage Weiterbildung pro Woche = 12h Selbststudium)
+Hausarbeiten müssen pünktlich abgegeben werden. Ist dies nicht der Fall, so wird die Arbeit mit der Note 1 bewertet.
 
+## Museeen, Ausflüge, Exkursionen
+Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail Jonas 9.8.2017).
+Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, so dass allfällige Dolmetscher sich darauf einstellen können.
 
-## Teilaufgabe «Gestaltung»
+## Promotionsordnung
+Die aktuelle Promotionsordnung gibt es [hier](https://cdn.rawgit.com/logrinto/IAD2019/dd035580/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)
 
-### Ausgangslage
-Die «Sammlung Oskar Reinhart ‹Am Römerholz›» in Winterthur möchte den bestehenden [Internet-Auftritt](https://www.roemerholz.ch/) überarbeiten (fiktive Aufgabestellung). Für eine erste Präsentation soll die Startseite neu gestaltet werden.
-
-### Aufgabe
-Die Startseite (ohne weitere Seiten) soll inhaltlich (Text) identisch aber mit neuer Gestaltung überarbeitet werden. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Alle inhaltlichen Elemente sollen erhalten bleiben, das jetzige Video kann eingebaut werden – muss aber nicht. Das Header-Bild (Kopf) darf ersetzt werden. Es gibt keine technischen Einschränkungen. Die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss in diesem Stadium nicht gezeigt werden.  
-Logo gemäss Pressemitteilungen auf der Website. Kein neues Logos gestalten.
-> Update 2.4.2019: Seit Aufgabestart gab es ein Update auf der Website. Es kann mit den neuen Inhalten gearbeitet werden oder im mit den Alten von [archive.org](https://web.archive.org/web/20190325063915/https://www.roemerholz.ch/sor/de/home.html). Die Aufgabe ändert sich nicht.
-
-### Abgabe
-Einen grafischen Vorschlag in digitaler Form. Text mit maximal 400 Zeichen welche Mängel der alten Website mit dem neuen Design gelöst sind.
-
-### Inhalt
-Gemäss jetziger Website [www.roemerholz.ch](https://www.roemerholz.ch/)
-
-### Bewertung in der Teilaufgabe «Gestaltung»
-#### Inhalt
-* Inhaltliche Aussage/Struktur wurde beibehalten oder verstärkt
-* Alle Inhaltselemente wurden genügend visualisiert (Verständlichkeit des Entwurfs)
-
-#### Grafisches Konzept
-* Das Grafische Konzept ist schlüssig und durchgängig
-* Grafische Sprache ergänzt/entspricht dem Inhalt der Website
-* Typografie überlegt eingesetzt
-* Seitenarchitektur überlegt eingesetzt
-* Zweckmässigkeit gegeben
-
-#### Technik
-* Die abgegebenen Visualisierungen sind verständlich um technische Abklärungen zu treffen
-* Realisierbarkeit ist im Rahmen des vertrauten Webdesigns möglich
-
-
-
-## Teilaufgabe «Selbstständige Erarbeitung»
-
-### Grundsatz
-Diese Teilaufgabe beinhaltet eine spezifische Aufgabe, die ein Wissen erfordert, welches nicht als Voraussetzung gegeben sein kann. Somit muss eigene Recherche getätigt werden und mit externen Quellen (Internet) wird Wissen erarbeitet um die Aufgabenstellung zu verstehen und die Aufgabe anschliessend umzusetzen.
-
-### Hintergrund
-In heutigen Teams zur Webentwicklung und zum Webdesign werden oft Techniken und Tools eingesetzt, die eine kollaborative Arbeitsweise ermöglichen. Dabei spielen unter anderem auch Versionskontrolle eine Rolle. Diese Teilaufgabe beschäftigt sich mit der Versionskontrolle der Software GIT.
-
-### Aufgabe
-Legen Sie sich auf [github.com](https://github.com/) einen Account an. Klonen Sie das Repository (nachfolgend Repo genannt) von [github.com/logrinto/IAD2019](https://github.com/logrinto/IAD2019) in Ihren Account, fügen Sie in ihrem Repo im Ordner `./homework/` ein neues Textfile hinzu. Das Textfile hat die Namenskonvention: `vorname_name.txt` also zum Beispiel `klara_mueller.txt`. Das Textfile hat den Inhalt "Hallo Welt!". Eröffnen Sie dann im ursprünglichen Repo ([github.com/logrinto/IAD2019](https://github.com/logrinto/IAD2019)) einen Pull-Request auf ihre modifizierte Version (also das um das Textfile erweiterte Repo). Sollten Sie aus Persönlichkeitsschutz ihren Namen nicht im Dateinamen wünschen, können Sie auch einen fiktiven Namen verwenden. Bitte dokumentieren Sie diesen Namen für die Bewertung.
-
-Hier einige Links um die Aufgabe zu verstehen und zu erfüllen:
-
-* [Ablauf in Englischer Sprache, jedoch am Beispiel eines anderen Projekts](https://docs.spongepowered.org/master/en/contributing/howtogit.html)
-* [Allgemeines zu Git](https://git-scm.com/book/de/v2/)
-
-### Abgabe
-Ein Pull-Request auf [github.com/logrinto/IAD2019](https://github.com/logrinto/IAD2019)
-
-### Bewertung in der Teilaufgabe «Selbstständige Erarbeitung»
-* GitHub-Account aktiviert (10%)
-* Repo in eigenen Account geklont (30%)
-* Eigene Datei eingecheckt (30%)
-* Pull-Request gestellt (30%)
+## Probleme während dem Unterricht
+Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches Gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt sein, so dass sich die andere Partei auch vorbereiten kann. Sollte in einem solchen Gespräch keine Lösung gefunden werden die befriedigend für alle Parteien ist, sollten die beiden Parteien sich an Jonas Schudel oder Stefan Huber richten. Daneben gibt es noch ein [Github-Repository[(https://github.com/logrinto/IAD2019/issues), wo Ihr Anliegen melden könnt.
