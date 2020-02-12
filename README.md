@@ -23,7 +23,7 @@ Die Klasse besteht aus 15 Studierenden ([Adressliste](https://logrinto.github.io
     <tr>
       <td>
         <ul>
-          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa!</strong></li>
+          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa! An Samstagen muss beim Hausdienst eine Schlüsselübergabe organisiert werden.</strong></li>
           <li>Lehrziele an Stefan Huber senden</li>
           <li>CV mit Tätigkeiten/Anstellungen, Abschlüsse mit Diplom, Arbeitszeugnisse/Arbeitsbestätigungen an Jonas Schudel (jonas.schudel@sfgz.ch)</li>
         </ul>
